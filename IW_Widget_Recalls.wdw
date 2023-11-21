@@ -1,0 +1,143 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : IW_Widget_Recalls
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : IW_Widget_Recalls
+ identifier : 0x2334111709beadf3
+ internal_properties : CAAAAAgAAADSy4/WaB63zVJjVz6Nvj8vjyOMKvMjtiCrgAddo1bIFBsNz+5c8hH868Eru44P7Ej1AYVQRForj7nDIYv7HGLkqA3f9D5Fp1zkfu1tKWhaWfZoRczTaGDQ8FJzcvXShTH2ve0hqerJnfdAraOyaI6i1QJc6QQR1fku72isnASKBUDCEkMHjeuzEhfKMjCI7YxohjzPSjuZCTPFA6KIDYO2Ap5OuvWdws356nQFH/iRaxVOnQTJkW4hAEKg41uP6Cvn5tkV73OzJSg0Y2Rul8UdhFJ9UB7Qf+4EP+KLxUDf6sK0D94/yvaNH9LoZ/RW4dXKbnPKeDRs82hw2a2+3AFPGzYVqPwbGeHrzTRFvp16EJFgUqIw0rebOZX3RLyqFdIJjoPiNda/tKeQXF8OrtQVK8WxLDcgIdUJW0xdplaM/YAm2g5rzrIiF1HE9eZVFd30ByyIf2YeOJpcTjqN5UUm6w683g95ehdlzTZ+AQhFNT8vqt4H23b/A5C7uESiq9ZEXhXQQDq9JogF9E0h+4w53W3J9g3uEVsWUMumDZSSqQT77pgLTSSgh9xKtz8VI84rN96cctQML+DNksJhRcaw/GLJqpNYaw2OeUUARNACTYoZfi3c65fY72NsWJsTmABkdODh7a1CivAdKugn3yU=
+ properties :
+  width : 120
+  height : 120
+ controls :
+  -
+    name : IW_Widget_Recalls
+    identifier : 0x2334111709bfadf3
+    internal_properties : CAAAAAgAAAAOQAJY/QNKN1yJmmxo1B6zg14dxPQJGPrs0d/Q45ZtWPIiJd/kbfEhl6KmN19u7ld9L2Oo0EazuLCIpCWBzg2BW5HiGnSctqDNe+jYx+Ll+h/Wo5byyIF9Y8mX/CxaCtBAkkUnD6tdXnGixMpbjHZs/e01FXBGR5Q7K1bGTPRuvL/1YA98kh6ijjgcOI+k66biEGCRZWsAPCKQ8oDRHUrbQE0OUQoLLZpM7pLiWCNON4z5hU0B/mgGpzdh73lasNda8HQ9rmGUZBfhezO7R7ebH04SnX6nvrSbGRNHpYXtfjEmhzbbQ7MjmAmakjXc2cGITkSvz2O3MumNyCFGRlK8Sftzh0FsDW7jKW8e8TzTqfkZrJhfa46Zm0yBLTsoeDAt3NDK9cP5a37BXlU+1fbAz6PyZYdZ268QyApAjr56jMyfXa3h3QBYZn1mUHk1CVcCZlIpY7RvxjpYduUBcxzgRUkSmiuPvMric1NipYEgxi/9C+w=
+    properties :
+     width : 120
+     height : 120
+    controls :
+     -
+       name : STC_Nb
+       identifier : 0x2334111709c1adf3
+       internal_properties : CAAAAAgAAADPs6jJfxuo0PifeFgJmKrpRy9uDlx1KQ/8mFhjnf0Nen97Yqst92J4wqo41al1YSYRd4l2illF9h0HTVdg9dabxdUFFxIo5AedklZ2lwx+VUN9GjILqhstXJMiQITgni0ElwhSH52mHwqpuyy9kaOr2KL2/eZPd0V80suUzqZbR0g2zOajZ3O2YRaE4wriWIUUdUclGn4gh6bK5pMwGsa6PA+koAtqKabA7XlctRJIe0qa/aD/7eEem6sulwYdHb38YrwckjNrtGA3bjZUNZs+CyMB0uKXEQ033UrGnL1D132k6wS2qr8ZOoNwcqtbzRhm30KviWSbskY7DZK9WqGWgC7JVSteUQcgdstWAQc67KJqCHiWOQGFU58BgMEbwAyT7z1U7tjzvjeNlu1wpLV5jFMBL7gmq4LE9ReaouOk2qFQivBGGYamAHm911O6dImKSZ3vVDmq/l4BZJVRhXrSmdZZdGWrRED5IW3d9Uk+dn3MVl5fXWhxkx6ccUHpyaZvcqKV
+       properties :
+        x : 16
+        y : 16
+        width : 88
+        height : 79
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : STC_Reminder
+       identifier : 0x2334111709c2adf3
+       internal_properties : CAAAAAgAAABScwYyhR/h8WAhLntBsm0i/f/Cf0ocxfvwLfDny4POvILKebpZ6TWZzL1C9C5Nh7RIRLMWBgDP+22FmhPca9azCkfGtUnBPV7qts2oBV5jFYhWZg9R7DkBUzq5NT7zVf3Wr9ujMBPoNasFCBbhtUbglwc/fKIiPO8fMcAhS+23wyZtwE/Isqy+c3h1XO1ZZUov9zXNHOZoxqEhRFFlA/6iFdWbHjabKsIKz5cA7np/yrYIyJHC+PTiMzUHvHG/Skv3n7XQWKCDERKyRBgH3ovphaIWp2YIz9VCkxs3wsvmOYaoD0gdgrrMyFxGUp6chwEdbxiAQ63fRIfZ6Om5ApJAgmfAiF91Uz+vnGzR6xF89jda0g7jQ9ecu0BMZSszfgLowNiOLQYCm03LyczR7qWQRRH/P1NkS6qIQgG27EW9KzFRRuUUaDhcpScOGhX9oMHFZgsmZg6S4kA+varyyHzjCGLnI/8nZx2dcqWWd317yhtN8ipVUGTnNJb12Mz07E84tI0kNJc58No=
+       properties :
+        x : 31
+        y : 89
+        width : 59
+        height : 19
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : BTN_Access
+       identifier : 0x2334111709c3adf3
+       internal_properties : CAAAAAgAAAC8Ay6KMQD2LM40dz2CpXV1rbDbc4m7NVUQwR8U5fCEl9S4hNmDYPR8lC9mb4GUgnN9JrteVp38KzB3SQIfXHtwf2afwu8X1HKWHOsJjCBfWe61p51fxXm2l37br+toYuEja5PykWkUjgUEL72BsTydGWU6YXnAuats97pssOiNXgT60nbKEeINVwPRS0GwMjWLxWO2LM83sr55IaP+rg04DErMcVmy6ZPnNSqBBmqOLcOLKzFrIo17z18QVRMpelm7FgJidAB6mZM0x9cOaGjBiqHR2xUhc8/Bif9NanqctVVYKOhiPPFqGCAGCjl1qSZ6/1sLSjBVLMlftWC/2cVHqN5C191WP7A5IIyEsHWkgB9hkG8oUmRpL2yImUW9TRQtwvYhS4EGsYOjQ3zMHEpm5bWL8/QA1hFJNe0xJN3XnQeKw6SA0a56X3r5geUguXVbXJXgCykjEEy01951kW0a4XmB3iG8drFVSZOouV51l2o4RU8qNPXZHh6tUWUa8uaxKVxtNl+5s5E/NHxhVuWHFe/0YDlpt6aFRmzYIkq6Vb52v5XsjRHVIaKeX44gt0Cb8UXXWSpEr9M7HaMhs5mGW7BkK4wrtkCjkiDymTK6npXGbHJ5oRcZV4ooxPJy8DWtUOoHBMCBkMjrzMRMSZ/40oPh7Gs8XQxKob5VsnAPyscRAwWEx1nl1klwrmGl4zVkHba/AJktt1d6SrX48eQSqI5cXJK/EDqhjQvRnVu2rqbRDUGkLni9eXrAX7LNyl1dUu9BFBS9t+P+15G+kvXfAMUp84LsW+Nw7+HR9STsIt9dBev3fHubkSWld4dVZG6mRlF7t3MGSXLtN7gj4MkTOjPby448GjUR8hZxs9cYaw39AjxHfcZi4g0aQPXdiA4gZ7PGLRRbFNqBgLpPOFOQ
+       properties :
+        x : 96
+        y : 2
+        width : 24
+        height : 24
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            Info("Access to recalls", "(option not available)")
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : IMG_Background
+       identifier : 0x2334111709c0adf3
+       internal_properties : CAAAAAgAAAD3aNtfbJvSBOltDhFX9EWzFZVTpVSeCK1rATNYBFUPEQHUm67SXRiBolQg38J/Drn2u/IV8oxJwxDDQzbEiEFOQ55ZLAHpgc6FU80oojDosJQnDOZkBl0oICrI0W+QbOsN2BwN2jHvnVaPE5j1iXqL1FqndME0/NGpDae7ejNAA3LVBQDBxkBVlmtQJmQpTrvBDHLIhjLDC92961R47OKOSeSj25CLdXpo4iuUrVF4CuflO77x8Uq1sj/fZXVX0HBAUWtv6TD219SClxrIPM/OosGTGhpARt4X2xZZzUhWe5XJGQ2yTgumIcNnF4jAALa3vQpifzDw+sf3rN+OVW6CPzCoNuK6/eoC9SyAUjrhGBJOnBOuQsfmpRImtYTzXd4g0QmhvN+FjQ/Z8NtW4FnfY+rlv5lziJeHtjWJEYQABPyWVkStiex5VRG16r7Z7zjdh/6guI61uBliZz+tDlnsLdcH9H3Ic163rB68iz9Cgh2dpEga3giodiLNyxhOYnnkdJuJtMLXO+B8tNSID41Av9yAP9K2OL/vknkqynIXKzJEg9Bxfhz1aF4UxQRzpJtlniEvdZe92cErvRv2IlxGIjHzXPLi1b2P0YDy4tkyOYFS+lATS0OQV2NH3gSFyc1HtWyqRlbp/g7SFPHVZUqw4HexxYmDgwUO9OXePOK2tRC0VO0XV5SfNpfQAwTELRGo/xrU6v24DhjUJ9fWw9jIvRNS4hqemcdI0VQMEdDK58X7nvcW4KgVuTn39QGviG2+njw+56OEykpbW+Mg1/OqzqRz7qsTSB7cQzL9nUQPA+4/rW7Ivqy7GB6x8nEbksPX5IG8mb1ENfQUVgZ6bBW1trqEiT2nBrN8XM6os/N2ly5Jv3MmkODsj6DHF03PANUUHyNJvsPV/5YL4oLQ2uMInZoY9J4iIubZlHc/izKv67nlfUQSCLmwuqHGLLmvplRXdg4S9p9AujUd
+       properties :
+        width : 120
+        height : 120
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           type : 18
+           enabled : false
+     -
+       name : IMG_RefreshAvail
+       identifier : 0x2334111709c4adf3
+       internal_properties : CAAAAAgAAADhov2/IKbL3PH0mgg1WaCFy+9IQigkPvQ1YHNKZMKeDbbnIh3bWm9rmbu63dHe87ugc8gI/muHWWESOE8ON+SGeZ8MUC+0ynBcscogYCVomhX1+8KDsh8zonY2VX1aWX5fFr+T3brKSJR0r5DZhIJpkh9hwApdCuFThqJBO8e1G+G1XN8w0JpW/dfrTSV3Il2H34wKd11OOekF1ZSh73n2etZ1sRGqNTsqb6X1aI16CVOwkEZQH1ynA0U+q/QLBNA5+igbXXNqR7hZoTGCyXWjoCJG+mX/cY1pUPbUHw8yQgR65EhdObtwjc/X9LagttD8pxXC/gKch+9nSqQXFgB6J/VrJmMW2l57KwUjSsoZSkh5DQlsLZZID4Z0Q4+1ItNeURtiM+Q2zFEJw6vBDep26fe9pK7JwQxKGY+RGIhirtJ7sg3L12WTZoOzNpMMrAilPDMcrx2i5hwST1Br9zfhr++dNlXqHIScTwKIatD2QE+f2PMyJcoMQXoZFZywcecr307M5mBCdBzKkNBIVdtP6dV081lxq8voLG7n0zx9Vy1plScr/wZy83xpgwGbcRpBYakpZrpThtzxSCK+ZAp0/4R3/59ZmdcNmb0UGvIuuLaQtSsqMTsogcMGt5kJRaYAj6PvA+Eqca909Jh0rdJ48EJPQbLbDQSbgj0UICfW6hxehyk/qJiEaW75Ts0gQJONsDfyZaa6b0TuxDgdZEVduQDP8u3bHxrIfWudiw0SqiIAqfGDpe2mnCKyl5CYoJg+HtUTlXbWBdfpP5ymIRQ71UWFyzYc1PbiIyAdAUcgI4FFIoT6Y1hpV42eDdx647oJDC2/sSQpUwA8Wht4llhTQWSaYVZL9sFqNpBQMSETo5RQ
+       properties :
+        x : 1
+        y : 1
+        width : 18
+        height : 18
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           type : 18
+           enabled : false
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         Procedure MyWindow()
+      -
+        code : |1+
+         // Displays the number of recalls
+         STC_Nb = gnNbRecalls
+        type : 14
+      -
+        code : |1-
+         
+         // Displays the number of recalls
+         STC_Nb = gnNbRecalls
+        type : 198
+ menu :
+  name : _Menu
+  identifier : 0x228f80ee6db49fcf
+  internal_properties : CAAAAAgAAAAjoO+VYAXYh2SYpTvD7AgXCHEHRjuTd5K/qNR3zUpM1aIlQYejrbtK76/LWLozAhgdmcRuoxDXe7vi3lf8PoZYYzNtPYlgCK9AarNrSCSSPpGDp+KLIikSwO2L+lCfwFobS8WKQZu2noN9WV5ipxuLKjTaOvfojbcmu1i6FPrF8FEPa+oQBHdRyMYNLYyLF/nTGn2y7NBixG5dC7y2wsO4aXA1CKpzZUca8sBJUrSr9FqhTJMK37pOOZqMTeCIo+trbOMI1osTdzjD26auXrzETrP8OxsAt+HgvahLwDb4kRpR6lQOjBIj
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x128f80ee00699fcf
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

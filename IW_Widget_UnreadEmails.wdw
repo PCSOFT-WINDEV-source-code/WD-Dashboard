@@ -1,0 +1,146 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : IW_Widget_UnreadEmails
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : IW_Widget_UnreadEmails
+ identifier : 0x233411150978a913
+ internal_properties : CAAAAAgAAABTxHCJJCfBpsAzwz/x8o1pVz1Hq6UUUf1zF1Ot38QmzcD6zOyEGptbCyKcgXnMnmhWT91uvvNkHSYYJ/Mn9ZsarFy3YQtten4yChcofZRGpKa12FcIYQv+YVS79flp0rIALbSBLcH/5YFk1HQ0jrbNbI0xKszgtwEIN/LC3iauj08xHR8B81xH/+yxqAbXtFNQ9hHQuorLK1J3zpeXTmOTWzcDNyLy8BF1gCa/QR/lHTBgQgRzml6vcrBqyNdLV3bmLHc/0vwMJHSid/LMyywaWljGX+RHyzeErUHGOfFt9heSFkJYN4H2DeRTCttTPCwa4xWQz9oG2/E7ijqyDRataApCRw/U3N04w0pw8lrJcPBGoSehIf7B+G1/i7xl6Nqc+l6zetGKFH7eWvSsH731ttm+W85BQseUiToAKukFjYOGWzluLzeKektu3P5yGrkjtePVPAkFamEYyrHF7taK/KphDSZoaxfCFc6lJ7FWvzpBlbfkTruXBnahA1DRgFapqLAR0a0ICnVTYj4DDMlJfi0qobgrVhdjdE/1o/Xt36uDBwuyXvHaUnKgfpeO9lQsp69voZexT2mhFrPb0ONx1AuRHh+ZNpyH9SgEvM5a6kGqymyB/ROHdM0M/IfdmRG7fE2JbKtMGE1e46KRNBEL0IBse6Qv
+ properties :
+  width : 120
+  height : 120
+ controls :
+  -
+    name : IW_Widget_UnreadEmails
+    identifier : 0x233411150979a913
+    internal_properties : CAAAAAgAAADB4aLyKTdq8gJYYeUe4psmCrWbGnut9obJBRU/4JWKiwFLafDRm0dBFxERFnMHPHxqx54EnLJ29/AF3fS73V9C6KrG7NOl7cm1mLh3fN79fXMpzxYgMox40C5cyr1Cv9nYBZXikI/Wozf1Vv8Kcq+mDQ7hgeukwxBuYfKcwZyBaBnYidFghJkdVqEHkTcM/7FN/WKw7Rm14P+9HreO6xXs+nnNABFj2GJJlbIdR73haH4eKA5VO6Dw4vUJJQZQB+3BiYghN91tI2brnys6ixi17ruq7ftjFyt4bSNzxAH65LbxkzAaTSyWIfO28Pj6lKPTw4qPcsF8Fb7lVEPbgFUEYFDb+abtX9ImYEEMY1aSFrhCUSs9biCfh1y76YxSo/P085oa+4dud2bTArXsEnTa8kpdcmMAFB2U8BjgKrZnigqQBLOyxFJWaONjU56uWvn9HoEygwmnS0X0UCPS2UfZhRcjgVVwNmDCHCV+RRz9NenIQA==
+    properties :
+     width : 120
+     height : 120
+    controls :
+     -
+       name : STC_Nb
+       identifier : 0x23341115097da913
+       internal_properties : CAAAAAgAAAC7ZQGthVUym1hOra2ln0eyLyNO2z2RztviReHLd7I7Ye8aJvLkFL9MZhQN8ocxHBxiBXtNjDJjcGpFK5czx1bepCd9qTSs6AxjaO5/rb28cXDzHiADmandQVc6+gJD/5emxOU6JfRSqUgM8JiF/m2yEVn6CEocJ7EJKlUN31Ln5Lb+GnROAzJePz6A6K4Q1Fep5pxFEqQ+CIhNCZxToQ/iwzavt+C/nzpe06KOX52SMeKvpjmLqCHak+R2tDOKWwbO7QNPZNJhNrjUt9mAstU/uxna0Xhojye/Vql5AOiplMMsktceTbWLsna/JfGIPUs6CUGsZ5FbnpA64uW1U2mDZKj4vOstg32w8x5/WaJi1yawwRVuJp3drei0PdWSiCdVJwTxmlvZCC8Kv8Tg15WOggOwiij1ERTQBmZrovDEL59gx+9oelYamroQhJf5FlSOQ4Jien41SHGUvlZbSgt3Q8hxcHwREh1NzutnjFaPkVsqkk9m3yFE8Xa6vfEoY9ybrLA=
+       properties :
+        x : 16
+        y : 16
+        width : 88
+        height : 79
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : STC_UnreadEmails
+       identifier : 0x23341115097aa913
+       internal_properties : CAAAAAgAAAD6S9coL9sxFVCn0JD3T2uRpezZ0LpTDQ3nOop4Icpye3xKYkLKuPZGGuZpMPLq5vjeGzrAOYUfmpZlIX87OTE0e7wWMBzRzINyzpOT1rvDqlSC9+9bXWYCv09S7bvpgw6xyPh9JmkkKVaR/Eek97WXtmYq31m5ehLJaD7NbZ8EZHsBunEWw1ah9wjNzTmloyZ7sQe2oYFqUGTQTajPQbHt5/KlOcmAm71YYfXx16VZUy1xmRp7n9tmPCHUm3e36r7Af/0NGXRCguaTphyEtLbWggE2AIUzb7rDymk7gCnUrvQTlGfYEzRYpTq89BZZ92PMWWE1hWCPygYTtgUvycxBA/HQykjbAzk3wjvY1+ZfzN6b/ZyYiC7VRExlxPz2vZ/zzMk17HbUWahHoz1QEXjX5l1XeukOS0ep2cdb4TmFfYjGYS4ixSbI9Ls168yrKEZsAeHC/LhnC72ikk+N67JbYsf84dIGKlisWM49NrHk5GQvKptOXdia2dHS3pmTgHhCTnjGdA90sYINjgzHVPu9k9gYHKuSR2Oz+k6b0U5mPggvXDhUWn+jZXokMGlO
+       properties :
+        x : 6
+        y : 89
+        width : 108
+        height : 24
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : BTN_Access
+       identifier : 0x23341115097ca913
+       internal_properties : CAAAAAgAAADLrsrTyQiAwPSuRUe62oTsRGC6ZO+Ns7QzKGIc9sYE6MmeRBxaUd3YP+bzjBbfM8TMhe+LZcIAi8NxGlkP8q0Il2doflcNKAAYicDAROFlP6MFGaacAh24lx2J0/wVBTyfpf7WuX/Oc0o8ylj4aEWYR6R9nXOep2PiWAQMOaehQ6Lxf4TeCbfWx7sIEN8Eve8b/Vg1lkQJ/vMJ5/xHl8Lxa9kQbxDztnWE842fTBfP4UvpEJbSvE28NsoWdJ1jza63M6i0ghQP1AJf1A9roSBQk6CIMYnh4s2ty2gVMj4lverymrLTlPSNERwo7ltfBMYI+2NpPUiRJaz/YmLbND4hVDXOeHBGV87f+6A6MguEXHvi75lDYbcQxIsfwZ3xYlF25zcEe498XlBwHJHj8BdqIrDMEVPplVy0nVJPGBha31PpfpsWo9x3Wi0yS2YN9ggJCQDUZo+Tyd9OzAQhhFGBJXcK1dz5owwRMjvtojDuexOUCNCmmHIeCOQv6cmMAiLY/Dw4igIjTfT/hMfJkm/8PVQuqi03eE9w9vLfbQs+9uADQ0yYyB0V4q0zFSi/k8rlRKoSaufupVklU9l5vaIrl4wOI1WLnYk/MNA+dyzVctU8bHAPqWl79Z78ZB0XAPeYNYA167X0v1otoOQ7sQcRH69p42HCua7c73Ee1KAIcQUZgUBgDPZrfpWO/NnNGG7f5X/CsOmGN5xKzZa20nMK6yAodBbW8Gre4JUvo+Gwnh1NlHKkkMsMOcGZ+uXYU+MyDaFMdxk2Zk4lpSpWTYWGdyxCnqnF52749BUeFwvghozn3fZSNrjxVulmvMeO11fb/Tar0ddmhHtBZqeEocUchE15aQ+Pf7YLj0zbi47uNcQZik5fZjZs9HE720bNgev7eu7mD+zBjF5bD9+6mDHaH5D8NRdQ0J9EhjbBFzz1DZ7YOsWZ3io7
+       properties :
+        x : 96
+        y : 2
+        width : 24
+        height : 24
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAAAS3fZWd1YdCDfWS26uA0wb70CVKRhhlJbNcz/rgXOOywPIUE3hgUdHwoITMXF+/7jzgGuz10P/9v1KeBOFHk3BWkUYRfCkjSJrCxiOW54LI7BPckv7a/c9Jbc1tKoNyL/ME6FVrcdSaQLrAw==
+           code : |1-
+            Info("Access to unread emails", "(option not available)")
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : IMG_Background
+       identifier : 0x23341115097ba913
+       internal_properties : CAAAAAgAAAAkyC8sZBmfLcHWuAV2hu3xHSWSEe2gLyD7QVTsHsi5gG7d4uReBx0FpQStHnY1F12CvLF1fCvOdgSYSr7zfQXzWoMoHsdAKQ2spGrdQNalZuV/EiafwlSP1n7vmfwwfpVINdHZFjIjqot9R2RUyedFfF0+s0cVNAgW0pjObfQKtJGnXAa6aB1px+QN5sewWrxmPtf7J7xcm6IgCcY4x+Cf2RFFIA/qpJWMYHmhyEU1xAmgiBmEI3GZwIcvRiaw1TkZyPNi7W9ATRE9wlaqmssG1iaKp+YSGdLYxmP/4NdJDWMXEjcfB81qekX9D8v9Go+M/OxfXAssFGXPNf279zVZjHLHtLqkfQHDqkpE0Ji3ib87dFoUl5qsoPzOqghJBn2wUBezT0xqBe1I9GBj6NHxxjlhrL19ke4QnO7MmqaGTGcY+Phz7/0UXOPLbUiMy5bSkru93kXxMIotqC2m7EAdT4P49AJrlZC6BVu4CwwX8vOUoS2TgU5J6MMDNJgrYtoOdyGNkZVqsJfWhLOHi+077PfgRDCWdmkB7YOifQY24ZFgYZlsPmNdTS7n3RmLKH2T7uLtVYz74FTsPNy4CBU/HDlY+mcBws2hFOMNMFQz87WdgXHBqUNlCc0usPth1n9AYYraVzd8QxwFcL7QhmMsoZ9JVSBZus3Xf//uAwmUaPZNJIMiKRioVlj7V9RYl+3y9QzDUYuquGjaRz32XJGmr/CqGZ8tAyOfvjQ70zEmHWQxHbJMZskW5Hyx+f3UjksW2eZCSddxbKY9I8E5pieaj09fgsugkGLdQXW6S355h0sUzT/eYU9LxyXNJrdL50D02cRsbRyExm/WqsZxc4Q7KAk7TVReaSwn3ij2F7uSrSqiK5sT9xaadMzchNPZIRE9ho6KGkHFtkCIV8AyrugYGgejsRISMpFn93fkPg8Jhve8UfAh9H0krTDkPvmkTsrVB6/7tx4qocH6NfzpjSEm
+       properties :
+        width : 120
+        height : 120
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           type : 18
+           enabled : false
+     -
+       name : IMG_RefreshAvail
+       identifier : 0x23341115097ea913
+       internal_properties : CAAAAAgAAADsMlff+eZn6uYBJcgVdfClWRNmV6QJXI//3V4XyCz+RmRsOUKdxUxiwunl7XQm3ymZ1LJYsQ2J7QGRcCA7b8K+MAEA9xmq2HnYM1kzhyZqyHM2mWWjhBn43ooZnWWENe0SPWAE4u08wvZRKxt+vNLzecywVZyROHjB039XRUkV5vID5u2tsFREJ1K3KtDuOW/VZJeCaJMPYT7u7nviSfOATMOyIu+HudhokQw3TgyN2ZZwAl+x2Yio32P8AczQTYA1s/oNn8D9IW9M4BrJMaGBM2eecDPztv3u5bFVMlvncfqm2fbLb5xMKXNm+sSh6pm9T3PxFG6aoP0IPuke4xiEgkZyUYKmrXMIHq8+136RN/x43gmmzn57TzHQvZuoPQugalR5sPmxoY3shRrJDsEeuC4kehl4iBVBiXEGFPXwnbyKKlNozVr/IHIrrNRupqrFNVUqIJPAEvQmkMSft1o07iXIwGAdGE3d6tNQfUj2cA2VpjA6BZ02annLKnpMLRBpxcYs8KCibXX7fuxEHrvNnCPRf0KdXZLWqsI3X3evbavpznQ56M9i1id1R6vkn1mw/gvGzRYVqvjX5oNMmxW3qMqEVYRIDOFlBdYv/1woZTQw/4AxiMppDnY2aGuxWnQNaEMnI/v2MPQtHCXI5XqRJE4O8OIEVxuUteyecIoBumH3WLoY1BEjEYBaD9fMCVkoLf4WS2ST2xCl0pEA/TADVsx/c3iOQInZKzZbJL8TWcDORxcMKNhFC1HsVMES9y+nolNaeYZwrcMTqF/xA3sOz036tLEnoq9V0iBoh5EEdQetq2hGXD9PLe3WCB7j4YsFwNzBXrPFm9zZqZPjJWZcGst4zAO1Eu7oVK20A9QM4WA=
+       properties :
+        x : 1
+        y : 1
+        width : 18
+        height : 18
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           type : 18
+           enabled : false
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         Procedure MyWindow()
+      -
+        internal_properties : CAAAAAgAAAA+OfrEJ/plmENe884SV6x/ewABvTSlpO4Zo/fDle92T5eofDmtbTfP7pqbmXWC79Q3gG8/g51lZA/g0p0PkNOrWCNql3quYwDVubIQtTD5De4VRG3FrRXbd00f7uzfPlFCaXsP//nUXe4HLw==
+        code : |1+
+         // Displays the number of emails
+         STC_Nb = gnNbEmails
+        type : 14
+      -
+        internal_properties : CAAAAAgAAAA+OfrEJ/plmENe884SV6x/ewABvTSlpO4Zo/fDle92T5eofDmtbTfP7pqbmXWC79Q3gG8/g51lZA/g0p0PkNOrWCNql3quYwDVubIQtTD5De4VRG3FrRXbd00f7uzfPlFCaXsP//nUXe4HLw==
+        code : |1+
+         // Displays the number of emails
+         STC_Nb = gnNbEmails
+        type : 198
+ menu :
+  name : _Menu
+  identifier : 0x228f80ee6db49fcf
+  internal_properties : CAAAAAgAAAAjoO+VYAXYh2SYpTvD7AgXCHEHRjuTd5K/qNR3zUpM1aIlQYejrbtK76/LWLozAhgdmcRuoxDXe7vi3lf8PoZYYzNtPYlgCK9AarNrSCSSPpGDp+KLIikSwO2L+lCfwFobS8WKQZu2noN9WV5ipxuLKjTaOvfojbcmu1i6FPrF8FEPa+oQBHdRyMYNLYyLF/nTGn2y7NBixG5dC7y2wsO4aXA1CKpzZUca8sBJUrSr9FqhTJMK37pOOZqMTeCIo+trbOMI1osTdzjD26auXrzETrP8OxsAt+HgvahLwDb4kRpR6lQOjBIj
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAAB/4rPyjLEJ/Gv5iqDOJNtMd1ioWeM2zI2fx3T3iqqOUg6kBcSyaypd2npPIUBY+nlHNirDfHgNEWwdD5baeXYxhXX7
+  type_code : 71
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x128f8232006b92f4
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

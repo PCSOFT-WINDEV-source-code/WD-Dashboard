@@ -1,0 +1,294 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : IW_Widget_Clock
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : IW_Widget_Clock
+ identifier : 0x23341116099aab93
+ internal_properties : CAAAAAgAAACh4+bDL0tCqvrX/4mTVJLjp+SR/B0GElwuJ/jljZaRhGHINXWfqZaOU2INkxl596viZI9tlIj1fRwCzjgiCYFuk/yzOj+Q2CMpMT/9fOJXHojqe6fNfiWOxUv+8rxbYgWY0CwyAoZz64NAmg8W7S9SQ2sPO2N/r32vYBAvAmDrwTOfcNN26PNvJ4KPnhR8fh6sjGfj7p3eBfsnwQC/uM6AuHSoW7VdDuPVTPl+yaeSMQUnR69uIwDZKW0zrSbAIKd/FUZLcEFoDtVn53nTIedHuBu5XabI+TVkwvRrH9+pzvfCzf3+IC/DUOm3qt4RCBzb2MF0IiQPyT7gNbCKT9FXb0FyyJFsDWsFp6ogarDMlPnfd6oJuSFB73th6dplHTJduzakWg2ZlknAyFZKP0jrrTBikJKvLzeLV+TiZGUOL4ZBd/6SBT6i85My1LievXF0Bp3qEBWGDKqyQDuXPHOElQNDrID0hiVTRfJdC/1PxUMac+LmeJRxvdw7GcSNteYoH+zEa5m1qAoaNVPEIfGa2AfV5VGMZKZhabgYavKNjje3uPOnqQt3klmzd5LNfrPaNR6XdGAPHIkoG6VdCPaeM07fMUzdyZE6Pt7QUGnaxalaLeICAX25X6ahKOgVDrP9yF0iditzup8ZKL4a
+ properties :
+  width : 120
+  height : 120
+ controls :
+  -
+    name : IW_Widget_Clock
+    identifier : 0x23341116099bab93
+    internal_properties : CAAAAAgAAABOXhixWpZ2MshYNHALG8G4R/s77KYK6NCEoAQ/uIIsIB8Jd/XdGjPZudK+pGvvz5u/BCIJbF7Rs7q2bziyQYIdqKGWzjv9FMQHh3ZfYYuwyH65nOBR25i71wwGEK/eKkWg4mdGJWQWacRriO3IlJZ/jY6Eg8tTQhdqqehvXG6HTjWJ0UQ/yyHMbTRGaXfTvCSWnOj3aertAFhVAm89QBXc7ENU3eSkrTtYLcoAVm7VbD55TCW8/Fc8ON61W1cPoTZ5EAKkQgH2+k9gkX+USbdL4lFRwdQC7xO649foRoyxbYQeBXI2BnKYLRnTjLmxai1Ovh5BucXbIeSiTPu40Q9VdDLl2NQlMF4dstdIq/W2TH+lovWFY0R2M4k99SMx0ABL2oxRpZm2kAVov4MBai3nkTsPInD4xACsyJHjVTigkRhBaaRX5jeExsSVhV5xaVKM9rJGtY5dFMl1VxPC2fAetpCPmW5gYWZeCYaxKKsewmiqYjuoElU=
+    properties :
+     width : 120
+     height : 120
+    controls :
+     -
+       name : IMG_Drawing
+       identifier : 0x23341116099cab93
+       internal_properties : CAAAAAgAAABMDogMmp6CzoBMyFF8xZZ6ZBl2V+JW/EWvuqo7LGIN9biG5tyjpVOe53YX86fVs8/6EH9E/eOaZiw2w36OJBskXBPZYxiU1WQaqTOgi5KhVG5DvQan3q0GKAWGq9HkALHIcnuS5+sr1TgTMGN7hTeUsUmOrInDgn0nmBprtwAh4bV74tsW9lXHuawS8qOUdq+o1s6TG2DujfDnF+mU/FhQPmousJ8VSb9FYkimH+b5m/Mvn7APP59JxDquspAjnyECWPOjyTwkfE4kSAusUmza9QjwyEwwsUP5q65+w6V8knsMdRhL/SgWV2nWPT17wM/5Gk7qONS+ZzHJgVMTwn0t4xqMkuGMXbnxaesdau3PKkBhU+wQOwyLTnzk8B4/S8Fc7C5KHVHe+/Ts7I7+rdt64yb2JA90lTz+evJewt/9gFbxKqx4NTLOZ3rmvEEeLB23AXkG7aJ9uSfg0z6lfmPtonsoFMgmS4Hgyj8Qpb5Bg1oGQ7PcdkgiwUGIZCnUeQs5EEqE3yWrIw5ZjUWc+/7U3N1Zh8RxiokeJ+4uPwVGZNsISm1fHjPwGSi4Jvtqi2An+5uSTOOXr6Lof3ObvQ5Kg+jU4o8CLOb6Elgn4rB/8169YfBjbeOpSoDhL50+ohv7GEVVtuje73PLXaa3Q86mqPPMbsUvC9FJ2UdX/fT0A6WdkIZJV1yi70X9+/8JYQl/l7Yn/rsi5eMrwORRB+oNxLG+z8/zY1R8PwhmEBibTSLRXRlbg7wkJvQovZ6+iKeoT9gV6PtJzkETLY2iOWJnxlVzDBMBWQNP5Y8wTcdYq7msX/tASY0tBado3050daT6DHeO52yV1x4Xik4WmhY8W1nQwm+Z4kq0A7w3X05Yhl6T9u7ja8cnMpQHaNu8sHAeQ88=
+       properties :
+        x : 20
+        y : 22
+        width : 80
+        height : 80
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           type : 18
+           enabled : false
+     -
+       name : STC_City
+       identifier : 0x23341116099dab93
+       internal_properties : CAAAAAgAAACIZG9Jhyjy1FG9G1kq9+iyc+FrM56MZ/dm1rX59R+wXnDP3baLW1iW8QeRiAIMYENuXrwEllyHLtMAHmfGxFVjDPWJHFnDsdSmptngVxJU3TYCiKkwsV0RyCZvPUoTrEt7EJiGMxq6iLLFTznWOpQfOq0akoOi200gqG4A9sSmcMpcsMklEboPzYLz5ZxQQeIjDdzOehej35853m8abCBN1gY+sGLPyNzRfWGFAHQZTJ/4TszKgRbD9uTO0/pv8GDKTPeCvn08Sg/2PJYLPlMXLKbeNyZqJ1FbCq0dp/KGt02YcEo70De54nCS5I/YPLF2PoCgmTTZb09RcBxg0hbI/DEpCkjcDwiNi53WRnJTzat3lJuurpleujWeFgMsl6UXxQqhZQL2OLTIUBBXwc41CTUXfQnbnoYAzRMIFgpwJhJyEXv1FY6yTflJP/IOHEhUHpcdhs7E+JqGpieDcYlQba07jpRtUgeTumOf3VxKQ/rW2rdv7VZmYfBvYicbpMYeYAYL1F5+SuyAdJ+MK2OnXDgeAuYt1DKKlsjxdGXdx715
+       properties :
+        width : 120
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+     -
+       name : BTN_Help
+       identifier : 0x23341116099fab93
+       internal_properties : CAAAAAgAAADEYBP2jHe6cWUgzg9upuQE77l0lDYX++d6uES2dfVy23VnXB7agQCT/n420pF85QAuQxn33EVeAhdpAiyVACupOLzc/071e1RUDKUkQY2xuRq70mF7MgHGOq/6a5Z0Xt72aRtmdrf25V5KUoViV0rcWkY9mx+0pRbnY3mX8R1PmO3o1fR4W6Byomog4n6ivsRDuKgnjiG+BbUg1XSRKzFiLhCgm21C/Zlq8LBO1fOKPNyLbvmyQ5is6HW1zxJv/vTNxB2P8dIQZukQ4tdgVgBkd3OUtt/Rcm4+fciyybSZKeaAWlYW7lBaVngibkpm69pOEJfvb/8NMjQuFcjP0y8uI0SeknFyWDUpheZDD7xpbJIWik78piC1kGVIS5mzf1XJqAGgfXuTvIiCmlaR7WMTsDMP5yxE0H3YpUGjYV9MhoSNk10mXGnhTyDhFlqH2c2Z5rs7TenflAH5/WisezPpSSosjefB9cJcWtRKhJcMfUSRSnldmq7MYTCWuOuLFjwnb5gp1dDHr/1DX7b/TyUoGOMehZZ3RiehNHWagQ4+4GW0d8NzGrUdUdmEQuyCTXCWKVyVAVmeh7D3lhSdcgL/pC2uxmS1PVu0Oqv1wxX/HKzn+q12/30jtKtsXrOajSQWLsH325fwWdp2iCV4vtd+xfMkZ1aHGVoVLweDhCeZcGJQl+ase4S90J8yrcwDs6djFU7tQDeryjvHXdjCQIZc5k9Z3mKijedjFQub18Iqa2tVTEMMmC9EwI7dYqmwI4NZxHm0f86OJTxWofxMOOGTR58IozyfT+yZ8mhP36BchCPkgS5mUzA8pdORNQiroar3jhmm8Lfe8Q2tWHByukUhoFxvU4GeqAvdBYtUIMj7Dvj1bsYA+mckldWJQBWO58wOazTPaqNp5Pm84iTuu/VJRwFUDweKQ1aUZ9e13Q==
+       properties :
+        x : 96
+        y : 96
+        width : 24
+        height : 24
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAACQX0w6p30+WEP+cy5S96z/28AB/RSFBC7ZgzejVU+2T3foPDnNDReP7rqbeTXiL5RXAO8/Iw21tL+QIq2f4MM7KBN6p2peM9DFqULgxQBpHf5FVH21HaXrpz0vfnwvbiES2YsfJk26Q4BpgQ==
+           code : |1+
+            // Tips
+            Info("You can prevent some widgets from being resized.", "To do so, define the maximum width and height as being the ""initial"" dimensions.")
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : STC_NotResizable
+       identifier : 0x23341116099eab93
+       internal_properties : CAAAAAgAAACPm6ouQVsw4mhoZY3CTsoQQ5KQx6pUQS5Tt/2RLUeoTb5lrp0vSAZvi6t7IGlNYcqlgonEkqB7Wr917NzP66QFc9utKB7B43N/PoxHCS1qZrt3aPEq5WLC+iKuAXTHQ352eS/tQFOlWRKVJ1C333ueoARwpFmkzEPmszpwVYmMx4tjI/vpzDzyPv0f9/+NTnxC7xgTf9JhkjW+RU8qyi9w32lOhpjytC8PRI/O8YJfgQb+hf11o9SwNSR44Yiw0r0HoYR6EK0+BF+U7beP8Zkj2bOMJ+XbfdJnKEJQHgbmH2+j4vVIHpYbmsGGTnZXB6EzK5Ob0XUgavRqXGlZl3GkVXYXY5LtTRE9kQ8dvVhdzR4b5NGgkv1FCvnV9FF/L5mO6sTKICjOZJTrQieUFCmCZoScfGqAs2bCqfCTZ7p9BSHqPFTIw/MW/6yNOfx3CWds+9bHn8TCS2ELCCmzH7McRgMVhPPtB6r0FmPwLDeaUYGoijuzQoVbH3S42k4qMxhuJ4I8znbmrwe+WUY=
+       properties :
+        y : 102
+        width : 94
+        height : 13
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1-
+         Procedure MyWindow(LOCAL gsCity is string)
+         
+         gaaListCitiesGMT is ASSOCIATIVE ARRAY of string
+         gnTimer is system int = GetIdentifier()
+         
+         // Saves the cities
+         GMTAdd("London", "+0000")
+         GMTAdd("Paris", "+0100")
+         GMTAdd("Tokyo", "+0900")
+         GMTAdd("Sydney", "+1000")
+         GMTAdd("New York", "-0500")
+      -
+        code : |1+
+         // Displays the city
+         STC_City = gsCity
+         // Displays the time permanently
+         DisplayTime()
+         Timer(DisplayTime, 100, gnTimer)
+        type : 14
+      -
+        code : |1-
+         
+         // Stops the timer
+         EndTimer(gnTimer)
+         // Resumes the timer
+         Timer(DisplayTime, 100, gnTimer)
+        type : 198
+ menu :
+  name : _Menu
+  identifier : 0x228f60ed3aa14f7c
+  internal_properties : CAAAAAgAAAAjoO+VYAXYh2SYpTvD7AgXCHEHRjuTd5K/qNR3zUpM1aIlQYejrbtK76/LWLozAhgdmcRuoxDXe7vi3lf8PoZYYzNtPYlgCK9AarNrSCSSPpGDp+KLIikSwO2L+lCfwFobS8WKQZu2noN9WV5ipxuLKjTaOvfojbcmu1i6FPrF8FEPa+oQBHdRyMYNLYyLF/nTGn2y7NBixG5dC7y2wsO4aXA1CKpzZUca8sBJUrSr9FqhTJMK37pOOZqMTeCIo+trbOMI1osTdzjD26auXrzETrP8OxsAt+HgvahLwDb4kRpR6lQOjBIj
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+  procedures :
+   -
+     name : DisplayTime
+     procedure_id : 1383749771714014099
+     type_code : 14
+     code : |1+
+      // Summary: Displays the time
+      // Syntax:
+      //DisplayTime ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      Procedure DisplayTime()
+      
+      sTimeDiffGMT is string
+      tCurrentTime is time
+      nHour, nMinute are int
+      nCenterX, nCenterY are int
+      nCircleRadius is int
+      nAngleHour, nAngleMinute are int
+      nX, nY are int
+      MyImage is a Image
+      
+      // Retrieves the GMT offset
+      sTimeDiffGMT = gaaListCitiesGMT[gsCity]
+      // Calculates the time difference
+      tCurrentTime = CalcTime(Now(), "-0100")
+      tCurrentTime = CalcTime(tCurrentTime, sTimeDiffGMT)
+      // Retrieves the hours and minutes
+      nHour = tCurrentTime..Hour
+      nMinute = tCurrentTime..Minute
+      // The time must be passed in 12:00 format
+      IF nHour > 12 THEN nHour -= 12
+      
+      // Calculates the angle
+      nAngleHour  = (nHour + (nMinute / 60 ))* (360 / 12) - 90 
+      nAngleMinute = nMinute * (360 / 60) - 90
+      
+      // Start drawing
+      dStartDrawing(MyImage)
+      // Sharp drawing
+      dChangeMode(drawAntiAliasing)
+      MyImage..Width = IMG_Drawing..Width
+      MyImage..Height = IMG_Drawing..Height
+      
+      // Center
+      nCenterX = MyImage..Width/2
+      nCenterY = MyImage..Height/2
+      
+      // Draws the decor circle
+      nCircleRadius = Min(MyImage..Width, MyImage..Height)
+      nCircleRadius -= 6
+      dCircle(nCenterX - nCircleRadius/2, nCenterY - nCircleRadius/2, nCenterX + nCircleRadius/2, nCenterY + nCircleRadius/2, RGB(153,153,153))
+      nCircleRadius -= 12 
+      dCircle(nCenterX - nCircleRadius/2, nCenterY - nCircleRadius/2, nCenterX + nCircleRadius/2, nCenterY + nCircleRadius/2, White)
+      
+      // Draws the hand for the minutes
+      nCircleRadius -= 10
+      // Calculates the X,Y point of the minute
+      nX = nCenterX + (Cos(nAngleMinute) * (nCenterX- (nCircleRadius/4)))
+      nY = nCenterY + (Sin(nAngleMinute) * (nCenterY - (nCircleRadius/4)))	
+      // Draws the hand for the minutes
+      dLine(nCenterX, nCenterY, nX, nY, RGB(71,133,186), 4)	
+      
+      // Draws the hour hand
+      nCircleRadius -= 10
+      // Calculates the X,Y of the hour
+      nX = nCenterX + (Cos(nAngleHour) * (nCenterX - (nCircleRadius/2)))
+      nY = nCenterY + (Sin(nAngleHour) * (nCenterY - (nCircleRadius/2)))	
+      // Draws the hour hand
+      dLine(nCenterX, nCenterY, nX, nY, RGB(26,161,225), 4)	
+      
+      // Displays the drawing
+      IMG_Drawing = MyImage
+     type : 458752
+   -
+     name : GMTAdd
+     procedure_id : 1383749771714079635
+     type_code : 14
+     code : |1-
+      // Summary: Adds a city
+      // Syntax:
+      //GMTAdd (<sCity> is string, <sGMT> is string)
+      //
+      // Parameters:
+      //	sCity (ANSI string): Name of the city
+      //	sGMT (ANSI string): GMT difference
+      // Return value:
+      // 	None
+      //
+      
+      Procedure PRIVATE GMTAdd(LOCAL sCity is string, LOCAL sGMT is string)
+      
+      // Stores the time difference for the city
+      gaaListCitiesGMT[sCity] = sGMT
+     type : 458752
+   -
+     name : CalcTime
+     procedure_id : 1383749771714145171
+     type_code : 14
+     code : |1+
+      // Summary: Calculates the time according to the time difference
+      // Syntax: 
+      //[ <Result> = ] CalcTime (<hTime>, <sOffsetGMT>)
+      //
+      // Parameters:
+      //	hTime: Time to shift according to the GMT offset
+      //	sOffsetGMT: GMT offset
+      // Return value:
+      // 	hour: Offset hour
+      
+      Procedure PRIVATE CalcTime(tTime, sOffsetGMT)
+      
+      tTimeCalc is time  = tTime
+      sCodeGMT	 is string = sOffsetGMT
+      
+      // Extracts the number of offset hours
+      nNbHours	 is int  = sCodeGMT[[2 TO 3]]
+      
+      // Extracts the number of offset minutes
+      nNbMinutes   is int  = sCodeGMT[[4 TO 5]]
+      
+      IF sCodeGMT[[1]] = "+" THEN
+      	// <GMT +HHMM>
+      	
+      	// Adds the number of minutes and hours of the GMT offset
+      	tTimeCalc..Minute += nNbMinutes
+      	tTimeCalc..Hour  += nNbHours
+      	
+      ELSE
+      	// <GMT -HHMM>
+      	
+      	// Subtracts the number of minutes and hours of the GMT offset
+      	tTimeCalc..Minute -= nNbMinutes
+      	tTimeCalc..Hour  -= nNbHours
+      	
+      END
+      
+      // Returns the new time
+      RESULT tTimeCalc
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x128f60ed00484f7c
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

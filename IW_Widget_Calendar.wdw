@@ -1,0 +1,143 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : IW_Widget_Calendar
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : IW_Widget_Calendar
+ identifier : 0x233411140920a424
+ internal_properties : CAAAAAgAAABkeaboAvuTffQ1yES2JLqvfLCGKDA0unvDOudFCfFptEOMJj5kmixMI2mFtNeVIiKl2pa+QSkdUv264KCkK4sv62sl5Hmxc1AColtrIDIyHEfTY1+zAOeYmI1u/5jWneNOrGMTbWdYK9ZCWC/sze5I2zOi5RQm8Lel4d4UZzm0QtMM1A1Uo5FVaQ84IsKfhQWrLjkzUH4HqGqPdChNr58AkodcHRVvn3e6TIs3QRA0dPgi+ssnkehArruxvGh3uEcojMr4fHEfQPdzhM2w34Xguv3vIM+/cy3cWfs2Uy/P3AEKZY+1hvIsUvqm+0ZajoRJW65e8zZpikiDyWL0kCh+5b/D9jCCSI69QHbubtu5xVt5qp5qNS4Wd1SjxWzAZq2JT2vGj+V6L72dDFwkihkE064zduMB7hzdGjyQiN4N2OLF2sp1+XkjJaZGtm7nlERyNKpufzGjWwSzRqfD5a5lJQMcaqW639yNKNLHE9yY3LHoACRT1o2OOfHdGdYG6LXoL/HwEmMCydQ0hLqVnVMq06p9fltNNBZOb0sLA3C1qHqyiBJLLidL9Y2+3i/nfke/ksbA4FtTmqRs4B2hO2vOGr+B7LAI65ChIa19ofkk1Wd9J1fWitt9tNUfZ7COEd6XwMD6f7c1mldpGnLUsGHm
+ properties :
+  width : 120
+  height : 120
+ controls :
+  -
+    name : IW_Widget_Calendar
+    identifier : 0x233411140921a424
+    internal_properties : CAAAAAgAAADK/pn7Ij6huXtzaBA1yfpHK6ndLeJSxzfk8tZwbQoLzlzS1pNo9PSmZkIe76SAiVfx8qfP64+n8M/SzjmkhjQFD2l3A9gHsrw6J7viT0FcVri+eosR+YeLCWVXuZTpgqYxxlxTLTZ5rrRIQSLxUULHXnPup+GYkYx+qwouHUBVBom+85tONANtKsenz0uwg0c5L/jiR53bBJ8fPulCh3WGKkfvtu8DSjLt035jB0UV7nrItsw/izKgWjbECCmrQqi6Ru9sauhqruXohjIBIpOsN0j5EFb+pBYXSgJKk8BVu7e2cvO16ME9iEwxe0sN+4oQ9L2eYdDFPPmO12Y+y+CT6S3UPGEmnjNjpQJXvmeDBYH/on7ory9sbPH8jCczYK7JDH/ZOlwBSMP4w+jfkYfv8VVMB0hndQwLT4txg3ESNyGrE4BnG3Pp037iGBsl7Q5wlWwjrNy8zswTEyyb/LrmnbZC4vaXXwu5AxxHDiP0LuDHRw==
+    properties :
+     width : 120
+     height : 120
+    controls :
+     -
+       name : STC_DayInAlpha
+       identifier : 0x233411140922a424
+       internal_properties : CAAAAAgAAACTo5qU4BLeBfhP61radfe4rxftb7CDk/UYcPMO/KDoEk2/iezSmtbfpPVStgNQB+wqbkn0DR77xnp7nOgRX+XcE6QYdVBdoyTYNbyRg+8QLWHbIIyfXqiuZisumPrEtcvi9e/pUHGWOnBfpu8T9h4Wut7Yw7lm1lCeVW0/zm9e1QxVLD+aaW2yR9oKyw1ReKuj3TgZnCrAhhpPRAuq6jHO5JGoTLPDqW15KvSa7QtlfHk+8nLN4NGfccl0OVZph5vfWKe64ztboQlvvlWvcTLuC6zsQvUDHxItIkDLdbbVX67lhADII7e2jl1vqAvP/CF1k8BhTPULCJD2BV8BIiLH4J/bSHvz0axgEbFUnfxKqRVFxJCsb6Xg9RwyQuHOphs3e9+Pv5evfdhGvukgcuPQOzu4SN8Ghs4Ov1oPDqFROtVlc3BlkiJPUr7KhI8hMGNaDXtKCYBM8sivN2Ilq+5eGWrN4OAELR1AF/oFqNooCy3bBiP4mHz0moUKz+r1XyhnWcXyjP4gi4hGy+06us1OoHnHaGEmzAj05Ll1esF0X/oMmkAQAKvRuw==
+       properties :
+        x : 5
+        y : 5
+        width : 111
+        height : 24
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+     -
+       name : STC_Month
+       identifier : 0x233411140923a424
+       internal_properties : CAAAAAgAAAAvCw60LO594fPqjjpuXVxq0Wwo+11MrVOCvSHEyGiLYickywNeLeoisDep2JxP7pXNOkGUcPER2McEslVz3Z0o1UxLVrXnQEXFprOugl0AoOtJzQWw9nyi6XNHjojEwVakOpZp7qICQHED5/yWnAL2I9C1AvLBzzZmlCWJvAEfUjR0Nl9bftXI74NCnddiBFmW7PHLab19Pbc16/W9sXwW/7lBKkEWBYvE+BBYxbrwiXRGbspQGhvUE0jhFmkFyDBFu9cWuOZ2q0/a8ENmc/PWMlxmWzNHsRAvHBcI3EQ27MuvLr3PJ+DdWO37uNBwg6sIv1kMLKALSiU91zmg7uAhgR53dpksGaSNyjPzNZ4RNNgGnB/jU446VDDb1HOQklLDjblmvRYlOLeqHszKg/4OBZZd6yZ6048LjhMLYkLuOE44btaX/TkHLObBI+E6HUd6VIEhqvadmctWc6XaBMRsb28To67AYYkl+M6ANKReAa7dkM0T4wr+1+paszBdHlCbNhPQGEgzb5fsBGoHMPfhv3xhwfBb26hQd5+C35YeIQ==
+       properties :
+        x : 5
+        y : 92
+        width : 111
+        height : 22
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+     -
+       name : STC_Day
+       identifier : 0x233411140924a424
+       internal_properties : CAAAAAgAAAAuGKJETuyQDE6tZvPIVLMYL9Y4/+11QnIPIqNQcd8UNm1lMZkYvmaXm4xptkxtxV8jQe0KKHY2E5r3KKqnls4SL3fHgSF73jYy/GhlOIcsLrAush11CZdYeRJG86cJSHB6UxN9Y53NBypIxoHBh7Y7rAbdNWfRcLWqb1jxHHS20YcblrL/hSw2oGxedO7WBQjTnUBi7TMixCqLXj1wmF1CYgmppPLm7pNA+LESXT7o5TayvjFyCOW8iOt6mJo2L24YWn/5e6cgw5feOuBhVHSeCUZgwKwLmksjvim3jtsLJHDHMMRSo8HsQJchxSgN9i2jzVtfOyZQQWljKbC+40lNHCiR1GHRLm/HscfVDLFnDaSNc+ykhbvFshd6JWqWyQU+l+W4oZSOVbIFVE/6/WbpK/CSvDuuDAewv2cqLcnY44HYCv9iMDmQtbJUrYZjevxRrhHKGWDWuQA6zaRE0+5mGizXouKLL/qjy+neY3ZaRgpyZZEAU0juwq3c7/JKnQk5TwDPt3z+1pyAmx3Ckt0DouW5uEr2p9/zIS0=
+       properties :
+        x : 5
+        y : 28
+        width : 111
+        height : 65
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         Procedure MyWindow()
+      -
+        code : |1-
+         // Displays the date
+         DisplayDate
+        type : 14
+      -
+        type : 198
+ menu :
+  name : _Menu
+  identifier : 0x228f60ed3aa14f7c
+  internal_properties : CAAAAAgAAAAjoO+VYAXYh2SYpTvD7AgXCHEHRjuTd5K/qNR3zUpM1aIlQYejrbtK76/LWLozAhgdmcRuoxDXe7vi3lf8PoZYYzNtPYlgCK9AarNrSCSSPpGDp+KLIikSwO2L+lCfwFobS8WKQZu2noN9WV5ipxuLKjTaOvfojbcmu1i6FPrF8FEPa+oQBHdRyMYNLYyLF/nTGn2y7NBixG5dC7y2wsO4aXA1CKpzZUca8sBJUrSr9FqhTJMK37pOOZqMTeCIo+trbOMI1osTdzjD26auXrzETrP8OxsAt+HgvahLwDb4kRpR6lQOjBIj
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+  procedures :
+   -
+     name : DisplayDate
+     internal_properties : CAAAAAgAAAA4fd0q/fH29dh1Il++iH2lQUd74W8Xge/LvajzGBFfinf4oap2/HQs3tYsyqD7We26BG6Kkx9frI9sfntZ8MA5VoJBg4twZeKk/Te5d0EEWuDjp2EMIhIEcbQbKrjz0/120vK56E7AhMx1AEmm2xY7wMKVOPC0fHdRALolRg5T2nywsbY=
+     procedure_id : 1383749763123618852
+     type_code : 14
+     code : |1-
+      // Summary: Displays the date
+      // Syntax:
+      //DisplayDate ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //// Automatic procedure:
+      // The procedure is run manually, during a call in the code
+      // It will be repeated in loop, with 1 second between each call
+      // Each following call runs the procedure once, without timer
+      // 
+      
+      Procedure DisplayDate()
+      
+      STC_DayInAlpha = DateToDayInAlpha(Today)
+      STC_Day = DateToString(Today(), "DD")
+      STC_Month = DateToMonthInAlpha(Today())
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x128f648a004c6a5c
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
